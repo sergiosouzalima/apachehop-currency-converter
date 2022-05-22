@@ -125,10 +125,10 @@ https://dadosabertos.bcb.gov.br</note>
     </notepad>
     <notepad>
       <note>output
-currency_conversion.csv</note>
+currency_conversion_result_YYYY-MM-DD_HHMMSS.csv</note>
       <xloc>704</xloc>
       <yloc>304</yloc>
-      <width>156</width>
+      <width>351</width>
       <heigth>42</heigth>
       <fontname>Ubuntu</fontname>
       <fontsize>10</fontsize>
@@ -569,7 +569,7 @@ currency_conversion.csv</note>
     </fields>
     <attributes/>
     <GUI>
-      <xloc>768</xloc>
+      <xloc>848</xloc>
       <yloc>240</yloc>
     </GUI>
   </transform>
