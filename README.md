@@ -1,1 +1,1 @@
-# Currency Converter Apache HOP Project
+# Currency Converter Apache HOP Project.
