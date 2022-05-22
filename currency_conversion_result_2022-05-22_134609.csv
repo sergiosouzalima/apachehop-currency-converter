@@ -1,0 +1,7 @@
+Date;Currency;CotacaoCompra;CotacaoVenda;url
+03-12-2021;USD;5.5634;5.564;https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodoFechamento(codigoMoeda='USD',dataInicialCotacao='03-12-2021',dataFinalCotacao='03-12-2021')?$select=cotacaoCompra,cotacaoVenda&$format=json
+04-12-2021;USD;5.6576;5.6582;https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodoFechamento(codigoMoeda='USD',dataInicialCotacao='04-12-2021',dataFinalCotacao='04-12-2021')?$select=cotacaoCompra,cotacaoVenda&$format=json
+05-12-2021;USD;5.2347;5.2353;https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodoFechamento(codigoMoeda='USD',dataInicialCotacao='05-12-2021',dataFinalCotacao='05-12-2021')?$select=cotacaoCompra,cotacaoVenda&$format=json
+03-12-2021;EUR;5.5634;5.564;https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodoFechamento(codigoMoeda='USD',dataInicialCotacao='03-12-2021',dataFinalCotacao='03-12-2021')?$select=cotacaoCompra,cotacaoVenda&$format=json
+04-12-2021;EUR;5.6576;5.6582;https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodoFechamento(codigoMoeda='USD',dataInicialCotacao='04-12-2021',dataFinalCotacao='04-12-2021')?$select=cotacaoCompra,cotacaoVenda&$format=json
+05-12-2021;EUR;5.2347;5.2353;https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoMoedaPeriodoFechamento(codigoMoeda='USD',dataInicialCotacao='05-12-2021',dataFinalCotacao='05-12-2021')?$select=cotacaoCompra,cotacaoVenda&$format=json
